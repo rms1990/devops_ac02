@@ -25,7 +25,7 @@ Raphael Maschion Sabino
 1 - (Print_08)  
     
 #####CHECKOUT PARA MASTER#####  
-6 - Comando git checkout teste para entrar na branch master (print_09)  
+1 - Comando git checkout teste para entrar na branch master (print_09)  
   
 #####COMANDO PULL#####  
 1- Usar o comando "git pull origin teste" para trazer as mudanças na master (print_10)  
